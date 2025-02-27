@@ -78,7 +78,7 @@ class UserProfilePage extends StatelessWidget {
 
             // Tên người dùng
             const Text(
-              'Johan Smith',
+              'Phan Quốc Hưng',
               style: TextStyle(
                 fontSize: 24,
                 fontWeight: FontWeight.bold,
@@ -89,7 +89,7 @@ class UserProfilePage extends StatelessWidget {
 
             // Địa chỉ người dùng
             const Text(
-              'California, USA',
+              'Bình Dương, VN',
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.grey,
