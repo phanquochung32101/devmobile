@@ -1,5 +1,6 @@
 câu 1:
  Em muốn trở thành lập trình viên AI trên ngôn ngữ python là chủ đạo. Môn này là môn em học cho biết 1 chút về lập trình android studio
+ 
 câu 2: 
  Trong tương lai gần 10 năm lập trình di động sẽ phát triển và tích hợp AI:
  Thứ nhất, do AI phát triển ngày càng nhanh và vài công ty đang tuyển dụng lập trình về AI
